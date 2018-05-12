@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32329
     wikipedia: http://en.wikipedia.org/wiki/Witter_Bynner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26918#SpectraA-Book-of-Poetic-Experiments
 gutenberg_issued: '2008-10-14'
 gutenberg_type: Text
 identifiers:
